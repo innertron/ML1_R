@@ -1,0 +1,5 @@
+a<-read.csv("/Users/innertron/Documents/96\ Storage\ EASE/EASE014/EASE014Session1Module1_Arousal_01.csv", skip=8)
+library(ggplot2 )
+barplot(X)
+head(a)
+colnames(a)
